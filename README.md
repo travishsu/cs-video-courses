@@ -284,7 +284,8 @@ Table of Contents
 - [Artificial Intelligence: Knowledge Representation and Reasoning - IIT Madras](https://nptel.ac.in/courses/106106140/)
 - [Semantic Web Technologies by Dr. Harald Sack - HPI](https://www.youtube.com/playlist?list=PLoOmvuyo5UAeihlKcWpzVzB51rr014TwD)
 - [Knowledge Engineering with Semantic Web Technologies by Dr. Harald Sack - HPI](https://www.youtube.com/playlist?list=PLoOmvuyo5UAcBXlhTti7kzetSsi1PpJGR)
-- [T81-558: Applications of Deep Neural Networks by Jeff Heaton, 2022, Washington University in St. Louis](https://sites.wustl.edu/jeffheaton/t81-558/)
+- [T81-558: Applications of Deep Neural Networks by Jeff Heaton, 2022, Washington University in St. Louis](https://sites.wustl.edu/jeffheaton/t81- /)
+- Stanford CS330: Deep Multi-Task and Meta Learning | Autumn 2022](https://youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI)
 
 ------------------------------
 
